@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Risque');
 #header {
     position: fixed;
-    background-color: white;
+    background-color: rgba(0, 0, 0, 0.548);
     width: 100%;
     height: 100px;
     top: 0;
